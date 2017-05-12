@@ -1,2 +1,2 @@
 # codeforces
-My solutions in Java for the problems in CodeForces
+My solutions for the problems in CodeForces (http://codeforces.com/problemset). These solutions are written in Java language.
